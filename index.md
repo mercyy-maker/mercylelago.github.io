@@ -4,11 +4,14 @@
 
 ### Personal Projects 
 
-### [Online Library ](/Library) (November 2020)
-* CLion with HTML, CSS, JavaScript, JQuery, and Bootstrap framework
+### [Web Application](/InterHacks) (June 2021)
+* C++
+* JavaScript 
+* Fire-base 
 * UI/UX Design
+* Html, CSS, React
 
-<img src="images/Library.png?raw=true"/>
+<img src="images/InterHacks.png?raw=true"/>
 
 ---
 ### [Dashboard Application](/Homehub) (June 2020)
