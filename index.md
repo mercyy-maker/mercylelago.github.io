@@ -4,8 +4,8 @@
 
 Web development 
 
-[Project 1 Title](/sample_page)
-<img src="images/library.jpg?raw=true"/>
+(/sample_page)
+<img src="images/Library.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
