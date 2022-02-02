@@ -8,7 +8,7 @@
 * CLion with HTML, CSS, JavaScript, JQuery, and Bootstrap framework
 * UI/UX Design
 
-<img src="images/Library.pngraw=true"/>
+<img src="images/Library.png?raw=true"/>
 
 ---
 ### [Dashboard Application](/Homehub) (June 2020)
