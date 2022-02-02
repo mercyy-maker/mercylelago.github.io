@@ -1,10 +1,12 @@
-title: Binsa Bhandari # your name (or website title) here
-logo: "/images/profile.jpeg" # your photo (or logo) here
+title: John Doe # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am a student at Seattle Pacific University majoring in Computer Science and minoring in Business Adminstration. Through my skills in programming and design, I hope to create intuitive software to improve our way of living.
-  I am primarily interested in software design and programming – UX/UI Design.
-
- 
-  <br><br>
-  <a href="https://www.linkedin.com/in/binsabhandari/">View My LinkedIn Profile</a>
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
   
