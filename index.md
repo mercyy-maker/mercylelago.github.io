@@ -2,7 +2,8 @@
 
 ---
 
-Web development 
+##Web development 
+
 CLion with HTML, CSS, JavaScript, JQuery, and Bootstrap framework
 UI/UX Design
 
