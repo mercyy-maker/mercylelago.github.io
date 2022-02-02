@@ -2,10 +2,11 @@
 
 ---
 
-### Category Name 1 
+### Web development 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+CLion with HTML, CSS, JavaScript, JQuery, and Bootstrap framework
+UI/UX Design(/sample_page)
+<img src="images/library.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
