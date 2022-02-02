@@ -5,7 +5,7 @@
 Web development 
 
 (/sample_page)
-<img src="images/Library.jpg?raw=true"/>
+<img src="images/Library.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
