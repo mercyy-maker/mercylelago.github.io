@@ -3,9 +3,7 @@ logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a 4th year student at Seattle Pacific University studying Computer Information Systems. I am intrested in product managment, desgin, and
   Web development. 
-  <br><br>
- 
-  <br><br>
+  
   <a href="https://www.linkedin.com/in/mercy-lelago/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
