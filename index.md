@@ -14,12 +14,12 @@
 <img src="images/InterHacks.png?raw=true"/>
 
 ---
-### [Dashboard Application](/Library) (June 2020)
-* Qt with C++
-* OpenWeatherMap API and Bing Map API (HTTP Request)
-* Database Management
+### [Online Library ](/Library) (June 2020)
+* MongoDB 
+* JavaScript 
 * UI/UX Design
-* Open/Read External File
+* Html, CSS,
+* Node
 
 <img src="images/Library .png?raw=true"/>
 
