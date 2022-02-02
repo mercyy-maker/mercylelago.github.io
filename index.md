@@ -3,8 +3,9 @@
 ---
 
 Web development 
+CLion with HTML, CSS, JavaScript, JQuery, and Bootstrap framework
+UI/UX Design
 
-(/sample_page)
 <img src="images/Library.png?raw=true"/>
 
 ---
