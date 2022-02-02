@@ -14,14 +14,14 @@
 <img src="images/InterHacks.png?raw=true"/>
 
 ---
-### [Dashboard Application](/Homehub) (June 2020)
+### [Dashboard Application](/Library) (June 2020)
 * Qt with C++
 * OpenWeatherMap API and Bing Map API (HTTP Request)
 * Database Management
 * UI/UX Design
 * Open/Read External File
 
-<img src="images/Homehub.png?raw=true"/>
+<img src="images/Library.png?raw=true"/>
 
 
 ---
