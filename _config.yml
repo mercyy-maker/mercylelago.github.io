@@ -9,7 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <br><br>
   <a href="https://www.linkedin.com/mwlite/in/mercy-lelago/">View My LinkedIn Profile</a> 
-  <br>
+  <br><br>
   <a href="https://agile-scrubland-26896.herokuapp.com/resume.html">View My Resume</a> 
   
 theme: jekyll-theme-minimal
