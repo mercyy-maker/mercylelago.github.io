@@ -2,7 +2,7 @@
 
 ---
 
-### Personal Projects 
+### Internship Experience 
 
 ### [Web Application](/InterHacks) (June 2021)
 * C++
@@ -14,6 +14,9 @@
 <img src="images/InterHacks.png?raw=true"/>
 
 ---
+
+### Class Projects
+
 ### [Online Library ](/Library) (June 2020)
 * MongoDB 
 * JavaScript 
@@ -44,6 +47,16 @@
 
 ---
 
+### Personal Projects 
+
+### [Dashboard Application](/HomeHub) (June 2020)
+* Qt with C++
+* OpenWeatherMap API and Bing Map API (HTTP Request)
+* Database Management
+* UI/UX Design
+* Open/Read External File
+
+<img src="images/HomeHub.png?raw=true"/>
 
 
 ---
