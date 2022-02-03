@@ -56,7 +56,7 @@
 * UI/UX Design
 * Open/Read External File
 
-<img src="images/HomeHub.png?raw=true"/>
+<img src="images/Homehub.png?raw=true"/>
 
 
 ---
